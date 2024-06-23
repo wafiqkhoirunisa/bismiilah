@@ -1,0 +1,175 @@
+body {
+  background: linear-gradient(#a9a9a9 0%, #2f4f4f 40%, #000000 100%);
+}
+
+.aboutme {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  flex-direction: column;
+  padding-top: 10%;
+  padding-left: 15%;
+}
+
+.desc {
+  margin-top: 50px;
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.profileimg {
+  width: 200px;
+  height: 200px;
+}
+
+.aboutme h2 {
+  font-size: 24px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 20px;
+  color: beige;
+}
+
+.aboutme p {
+  transform: translateY(2);
+  color: beige;
+}
+
+.pengalaman {
+  background-color: rgba(255, 255, 255, 0.358);
+  padding-top: 4%;
+  padding-bottom: 16%;
+}
+
+.pengalaman h1 {
+  margin-top: 10px;
+  margin-bottom: 25px;
+  font-size: 36px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  
+}
+
+.pengalaman h3 {
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: -5%;
+}
+
+.pendidikan {
+  padding-top: 55px;
+  padding-bottom: 100px;
+  background-color:rgba(50, 54, 53, 0.865) ;
+}
+
+.pendidikan h1 {
+  font-size: 36px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-bottom: 30px;
+  color:beige;
+}
+
+.education {
+  margin: 0 auto;
+}
+
+.education h2 {
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  margin-bottom: 20px;
+  color:beige;
+}
+
+.education h3 {
+  font-size: 14px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: justify;
+  margin-left: 60px;
+  color:beige;
+}
+
+.education p {
+  font-size: 12px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 60px;
+  color:beige;
+}
+
+.col {
+  margin-bottom: 20px;
+}
+
+.carousel-inner .carousel-item img {
+  width: 60%;
+  height: 60%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.portofolio {
+  padding: 60px 0;
+}
+
+.skills {
+  background-color: white;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  border-top: 1px solid #c2b9b9;
+}
+
+.skills h1 {
+  margin-bottom: 50px;
+  font-size: 36px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.skills h3 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.skill-list {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 75px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.skill-list li {
+  margin-bottom: 10px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.achievment {
+  background-color: rgba(15, 15, 15, 0.445);
+  border-top: 1px solid #c2b9b9;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+.achievment h2 {
+  font-size: 36px;
+  color: beige;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-bottom: 100px;
+}
+
+.footer h2 {
+  font-size: 36px;
+  color: beige;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding-top: 55px;
+  padding-bottom: 100px;
+}
